@@ -124,11 +124,5 @@
         "book_id": 1,
         "img": "",
         "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "",
-        "accessibility_tag": ""
     }
 ]
