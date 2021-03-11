@@ -3,7 +3,9 @@
         "book_name": "Conto de Afrodite",
         "book_id": 1,
         "img": "https://github.com/M001T/afrodite/blob/master/CardFrente.png?raw=true",
-        "accessibility_tag": ""
+        "accessibility_tag": "",
+        "animation": "",
+        "text_content": ""
     },
     {
         "book_name": "unknown",
