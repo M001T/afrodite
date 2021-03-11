@@ -1,128 +1,92 @@
 [
     {
-        "book_name": "legal",
+        "book_name": "Conto de Afrodite",
         "book_id": 1,
         "img": "https://github.com/M001T/afrodite/blob/master/CardFrente.png?raw=true",
         "accessibility_tag": ""
     },
     {
-        "book_name": "legal",
+        "book_name": "unknown",
+        "book_id": 2,
+        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
+        "accessibility_tag": ""
+    },
+    {
+        "book_name": "unknown",
+        "book_id": 3,
+        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
+        "accessibility_tag": ""
+    },
+    {
+        "book_name": "unknown",
+        "book_id": 4,
+        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
+        "accessibility_tag": ""
+    },
+    {
+        "book_name": "unknown",
+        "book_id": 5,
+        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
+        "accessibility_tag": ""
+    },
+    {
+        "book_name": "unknown",
+        "book_id": 6,
+        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
+        "accessibility_tag": ""
+    },
+    {
+        "book_name": "unknown",
+        "book_id": 7,
+        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
+        "accessibility_tag": ""
+    },
+    {
+        "book_name": "unknown",
+        "book_id": 8,
+        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
+        "accessibility_tag": ""
+    },
+    {
+        "book_name": "unknown",
         "book_id": 1,
         "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
         "accessibility_tag": ""
     },
     {
-        "book_name": "legal",
-        "book_id": 1,
+        "book_name": "unknown",
+        "book_id": 9,
         "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
         "accessibility_tag": ""
     },
     {
-        "book_name": "legal",
-        "book_id": 1,
+        "book_name": "unknown",
+        "book_id": 10,
         "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
         "accessibility_tag": ""
     },
     {
-        "book_name": "legal",
-        "book_id": 1,
+        "book_name": "unknown",
+        "book_id": 11,
         "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
         "accessibility_tag": ""
     },
     {
-        "book_name": "legal",
-        "book_id": 1,
+        "book_name": "unknown",
+        "book_id": 12,
         "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
         "accessibility_tag": ""
     },
     {
-        "book_name": "legal",
-        "book_id": 1,
+        "book_name": "unknown",
+        "book_id": 13,
         "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
         "accessibility_tag": ""
     },
     {
-        "book_name": "legal",
-        "book_id": 1,
+        "book_name": "unknown",
+        "book_id": 14,
         "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "https://github.com/M001T/afrodite/blob/master/CardVerso.png?raw=true",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "",
-        "accessibility_tag": ""
-    },
-    {
-        "book_name": "legal",
-        "book_id": 1,
-        "img": "",
         "accessibility_tag": ""
     }
 ]
